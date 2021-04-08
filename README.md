@@ -1,6 +1,6 @@
 # E4511-2021-Mao
 
-Target: CYP3A4
+## Target: CYP3A4
 
 * Excape curation: https://github.com/jm5159/E4511-2021-Mao/blob/master/excape_curation.ipynb
 
